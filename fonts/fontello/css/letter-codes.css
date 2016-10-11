@@ -1,0 +1,11 @@
+
+.icon-tumblr-1:before { content: '\31'; } /* '1' */
+.icon-cancel:before { content: '\e800'; } /* '' */
+.icon-vk:before { content: '\e801'; } /* '' */
+/*.icon-angle-right:before { content: '\f105'; } /* '' */
+.icon-brcr:after { content: '\f105'; }
+.icon-facebook:before { content: '\f300'; } /* '' */
+.icon-twitter-bird:before { content: '\f303'; } /* '' */
+.icon-odnoklassniki:before { content: '\f30c'; } /* '' */
+.icon-linkedin:before { content: '\f31a'; } /* '' */
+.icon-instagram:before { content: '\f31e'; } /* '' */
